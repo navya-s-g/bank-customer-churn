@@ -19,30 +19,15 @@ Several machine learning models are built and evaluated for their ability to pre
 
 ◉ Decision Tree Classifier
 
-<img width="310" alt="image" src="https://github.com/navya-s-g/bank-customer-churn/assets/133527949/bdc24f17-56fe-485c-a356-85b0cfbc2514">
-
 ◉ Decision Tree Classifier with SMOTE for handling class imbalance
-
-<img width="317" alt="image" src="https://github.com/navya-s-g/bank-customer-churn/assets/133527949/0bc55669-d558-4e7a-96a5-31abcb601fa2">
 
 ◉ Decision Tree Classifier with hyperparameter tuning
 
-<img width="301" alt="image" src="https://github.com/navya-s-g/bank-customer-churn/assets/133527949/cec83f79-e22b-4b84-9104-7a5c0aeba2f8">
-
 ◉ Random Forest Classifier
-
-<img width="326" alt="image" src="https://github.com/navya-s-g/bank-customer-churn/assets/133527949/56df7048-770e-4349-9b56-75d36843dee6">
 
 ◉ Artificial Neural Network
 
-<img width="320" alt="image" src="https://github.com/navya-s-g/bank-customer-churn/assets/133527949/f592dc14-43d4-4e3c-9f89-9d0f74bc3fb4">
-
 ◉ XGBoost Classifier
-
-<img width="325" alt="image" src="https://github.com/navya-s-g/bank-customer-churn/assets/133527949/0fd665fb-ce0a-4342-bc8d-8ba6e0c608f3">
-
-The Decision Tree Classifier with hyperparameter tuning yielded the best accuracy.
-
 
 ## Dependencies
 Python 3.x
